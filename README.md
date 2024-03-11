@@ -1,4 +1,4 @@
-# Availability and access to orphan drugs for rare cancers in Bulgaria: analysis of delays and public expenditures
+# Availability and access to orphan drugs for rare cancers in Bulgaria
 
 ## Description
 
