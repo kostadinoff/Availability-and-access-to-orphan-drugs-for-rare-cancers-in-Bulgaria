@@ -88,11 +88,16 @@ This repository contains the data and code used for the article "Availability an
 If you find this repository helpful, please consider citing it as follows:
 
 ```bibtex
-@article{Kostadinov_github_2024, 
-              title={Availability and access to orphan drugs for rare cancers in Bulgaria: analysis of delays and public expenditures - GitHub Repository}, 
-              author={Kostadinov, Kostadin}, 
-              year={2024}, 
-              publisher={GitHub},
-              howpublished={\url{https://github.com/kostadinoff/Availability-and-access-to-orphan-drugs-for-rare-cancers-in-Bulgaria}},
-              note={Created on 13th March 2024}  
+@article{Kostadinov_2024, 
+  title={Availability and Access to Orphan Drugs for Rare Cancers in Bulgaria: Analysis of Delays and Public Expenditures}, 
+  volume={16}, 
+  rights={http://creativecommons.org/licenses/by/3.0/}, ISSN={2072-6694}, url={https://www.mdpi.com/2072-6694/16/8/1489}, 
+  DOI={10.3390/cancers16081489}, 
+  number={8}, 
+  journal={Cancers}, 
+  author={Kostadinov, Kostadin and Popova-Sotirova, Ivelina and Marinova, Yuliyana and Musurlieva, Nina and Iskrov, Georgi and Stefanov, Rumen}, 
+  year={2024},
+  pages={1489}, 
+  language={en} 
+}
 ```
